@@ -23,7 +23,7 @@ Comment end-->
 2. Newspapers
 3. Social Media 
 4. Magazines
-<!-- For table-->
+
 |**Books** | **Newspapers** | **Social Media** | __Magazines__ |
 |-------|------------|--------------|----------|
 |Spiritual Books | Tribune | Facebook |  Celebrity magazines |
