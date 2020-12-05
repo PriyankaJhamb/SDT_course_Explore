@@ -17,7 +17,7 @@ Comment end-->
 
 ![Display Picture](Photos/reading.jpeg)
 
-## Different-Different Materials to read
+## Different Types of Materials to read
 
 1. Books  <!-- For numbers-->
 2. Newspapers
