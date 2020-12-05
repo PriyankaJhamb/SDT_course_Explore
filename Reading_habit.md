@@ -11,7 +11,8 @@
 3. Social Media 
 4. Magazines
 
-| Books | Newspapers | Social Media | Magazines |
+|**Books** | **Newspapers** | **Social Media** | __Magazines__ |
+|-------|------------|--------------|----------|
 |Spiritual Books | Tribune | Facebook |  Celebrity magazines |
 |Course Books | Denik Svera | Instagram | General News Magazines |
 | Science | Denik jagran | Twitter | Sports magazines | 
