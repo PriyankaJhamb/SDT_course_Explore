@@ -23,8 +23,8 @@ Comment end-->
 2. Newspapers
 3. Social Media 
 4. Magazines
-
-|**Books** | **Newspapers** | **Social Media** | __Magazines__ |<!-- For table-->
+<!-- For table-->
+|**Books** | **Newspapers** | **Social Media** | __Magazines__ |
 |-------|------------|--------------|----------|
 |Spiritual Books | Tribune | Facebook |  Celebrity magazines |
 |Course Books | Denik Svera | Instagram | General News Magazines |
