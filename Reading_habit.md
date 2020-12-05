@@ -1,4 +1,17 @@
-## ***READING HABIT***
+<!-- Comments start 
+# for Heading
+## for Sub heading
+### for Sub to Sub heading
+***For bold and italic***
+![Display Picture](picture name)
+*for italic*
+**for bold**
+__for bold__
+- for bullets
+Comment end-->
+
+
+# ***READING HABIT*** 
 
 ### *One of the best habits....*
 
@@ -26,3 +39,6 @@
 - Memory Improvement
 - Stronger Analytical Thinking Skills
 - Improved Focus and Concentration
+
+### Reference links
+[Click](https://www.skillsyouneed.com/rhubarb/develop-reading-habit.html) to know more
