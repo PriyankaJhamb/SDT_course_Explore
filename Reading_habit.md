@@ -1,6 +1,6 @@
-## READING HABIT
+## ***READING HABIT***
 
-### One of the best habits....
+### *One of the best habits....*
 
 ![Display Picture](Photos/reading.jpeg)
 
