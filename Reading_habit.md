@@ -19,12 +19,12 @@ Comment end-->
 
 ## Different-Different Materials to read
 
-1. Books
+1. Books  <!-- For numbers-->
 2. Newspapers
 3. Social Media 
 4. Magazines
 
-|**Books** | **Newspapers** | **Social Media** | __Magazines__ |
+|**Books** | **Newspapers** | **Social Media** | __Magazines__ |<!-- For table-->
 |-------|------------|--------------|----------|
 |Spiritual Books | Tribune | Facebook |  Celebrity magazines |
 |Course Books | Denik Svera | Instagram | General News Magazines |
@@ -41,4 +41,4 @@ Comment end-->
 - Improved Focus and Concentration
 
 ### Reference links
-[Click](https://www.skillsyouneed.com/rhubarb/develop-reading-habit.html) to know more
+[Click](https://www.skillsyouneed.com/rhubarb/develop-reading-habit.html) to know more <!-- for link-->
