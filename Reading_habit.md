@@ -15,7 +15,7 @@ Comment end-->
 
 ### *One of the best habits....*
 
-![Display Picture](Photos/reading.jpeg)
+!(Display Picture)[Photos/reading.jpeg]
 
 ## Different Types of Materials to read
 
