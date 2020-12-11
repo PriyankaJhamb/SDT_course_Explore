@@ -3,7 +3,7 @@
 ## for Sub heading
 ### for Sub to Sub heading
 ***For bold and italic***
-!(Display Picture)[picture name]
+![Display Picture](picture name)
 *for italic*
 **for bold**
 __for bold__
